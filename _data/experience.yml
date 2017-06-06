@@ -1,19 +1,55 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# SODO
+- company: SODO Builders
+  position: Project Manager
+  duration: Jan, 2016 &mdash; Present
+  summary: Working with smart people to build complicated things.
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Cloudmunch
+- company: Cloudmunch
+  position: Senior Software Engineer
+  duration:  2015 &mdash; 2016
+  summary: Collaboratively design and develop complex JavaScript web applications that provide innovative DevOps solutions to enterprise customers on a global scale.
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Adonit
+- company: Adonit
+  position: Front End Web Developer
+  duration:   2014  &mdash; 2015
+  summary: Front end engineer for Adonit [100% Remote]. Engaged and enthusiastic member of a small cross-functional team utilizing agile methodologies to deliver world-class web experiences to our users and stakeholders. We use Sass, Compass, CoffeeScript, MongoDB, and a bunch of other front-end goodness to make well-crafted internets for smart people.
+
+# CPB
+- company: Crispin Porter + Bogusky
+  position: Interactive Developer
+  duration:   2013  &mdash; 2014
+  summary: Collaborate with unbelievably smart people to build unreasonably effective and creative digital work for the world's biggest brands. Maintain large consumer-facing web applications. Develop and maintain full stack web applications using modern web technologies and frameworks.
+
+# TEAM COCO YO
+- company: Team Coco Digital
+  position: Web Developer
+  duration:   2013  &mdash; 2013
+  summary: Work with the amazingly talented (and Emmy winning) people at Team Coco Digital to build engaging and effective interfaces for viewers to interact with the Conan O'Brien show and it's ragtag band of misfits.
+
+# Lunchbox
+- company: Lunchbox
+  position: Web Developer
+  duration:   2012  &mdash; 2013
+  summary: Build and maintain engaging and dynamic interactive experiences for the world’s largest retailers and most recognized brands. Engage and advise creative and marketing teams with regard to technical implementation of proposed and active projects. Update content and features for existing platforms. Use modern web technologies including HTML5, CSS3, JavaScript, MongoDB, and others to build connections between consumers and brands.
+
+# Graham
+- company: Graham Group Ltd.
+  position: Project Engineer
+  duration:   2007  &mdash; 2011
+  summary: Delivered over $50M of contracted scope on 2 projects in downtown Seattle to a single owner in an 18 month span.
+
+# Skender
+- company: Skender Construction
+  position: Project Engineer
+  duration:   2006  &mdash; 2006
+  summary: Clarified scopes and negotiated subcontracts for large Assisted Living facility in suburban Chicago. Achieved 5% or more in negotiated savings for nearly all scopes, directly benefiting the projected profit margin. Full accountability for project accounting and forecasting.
+
+# WEST
+- company: WEST Builders
+  position: Field Engineer
+  duration:   2004  &mdash; 2006
+  summary: Controlled cost and schedule while performing layout and coordination in support of project team in seismic retrofit and complete renovation of an historic Masonic Temple. Project included dual 8 story concrete towers flanking the original building, with connected below grade parking for 100 residential luxury condominiums. Established and maintained an effective project coordination issue log - allowing for significant improvements in accountability and productivity and fostering a positive team-based approach to managing a complex and challenging project.
